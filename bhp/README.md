@@ -1,11 +1,6 @@
 ![image](https://github.com/ModheS/Surabhi-Modhe/assets/140148709/223289f5-9d86-4dc4-97c1-103832306b73)
 
-This project is a real estate price prediction website. Firstly I have build a model using sklearn and linear regression using banglore
-home prices dataset from kaggle.com. Second step is to write a python flask server that uses the saved model to serve http requests. Third 
-component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call 
-python flask server to retrieve the predicted price. During model building data science concepts such as data load and cleaning, outlier 
-detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. 
-are explored. Technology and tools wise this project covers, Python Numpy and Pandas for data cleaning Matplotlib for data visualization 
-Sklearn for model building Jupyter notebook, visual studio code and pycharm as IDE Python flask for http server HTML/CSS/Javascript for UI
+A website that forecasts home prices is this project. First, I created a model with the banglore home prices dataset from kaggle.com using sklearn and linear regression. The next step is to create a Python Flask server that processes http requests using the saved model. The third element is a website made using html, css, and javascript that asks the python flask server for the anticipated price once the user enters information about their home's square footage, bedrooms, etc. Data science topics like feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tuning, k fold cross validation, and others are examined during the model construction process. In terms of technology and tools, this project uses Python, Numpy, and Pandas to clean data. Visualising data with Matplotlib Learn modelling techniques Visual Studio Code, PyCharm, and Jupyter Notebook Python's http server flask UI in HTML/CSS/Javascript
 
-Surabhi-Modhe
+
+
