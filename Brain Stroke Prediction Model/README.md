@@ -1,4 +1,4 @@
-# project-brain_stroke
+# Brain Stroke Prdecition Model
 ## Indroduction
 Damage to the brain caused by a blood supply disruption. A stroke is an urgent medical matter. Stroke symptoms include paralysis or numbness of the face, arm, or leg, as well as difficulties with walking, speaking, and comprehending. Brain damage can be minimised with early therapy with drugs like tPA (clot buster). Other therapies concentrate on reducing side effects and averting more strokes.
 ## Objective
