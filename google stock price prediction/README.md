@@ -21,14 +21,9 @@ scikit-learn
 keras (with TensorFlow backend)
 These libraries are used for data manipulation, visualization, and building the LSTM model.
 
-Methods
-Data Preprocessing: Import the required libraries, load and preprocess the training and testing data from CSV files.
-Feature Scaling: Use MinMaxScaler to scale the training and testing data to a suitable range.
-Data Sequencing: Create sequences of data with a specified time window for input and corresponding output.
-LSTM Model: Build an LSTM neural network using the Keras Sequential API with dropout layers.
-Model Training: Train the LSTM model on the training data and monitor the loss during training.
-Prediction: Apply the trained model to predict stock prices for the testing data.
-Inverse Scaling: Convert the scaled predicted prices back to their original scale.
-Visualization: Plot the actual and predicted stock prices using matplotlib.
+## Methods  
+**LSTM**
+
+
 ## Result  
 The result of the project is a visualization that compares the actual stock prices with the predicted stock prices using the trained LSTM model. The plotted graph illustrates the model's performance in predicting stock prices based on historical trends.
