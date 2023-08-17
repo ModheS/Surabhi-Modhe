@@ -17,5 +17,3 @@ This project aims to build a predictive model that can accurately estimate the p
 **Results**  
 The project results in a predictive model that can estimate home prices in Bangalore based on various input features. The Linear Regression model achieved a score of approximately 86.29% accuracy on the test data.
 
-**Acknowledgments**  
-The project code and dataset were used for educational purposes and were adapted from a data science project focused on predicting home prices in Bangalore.
